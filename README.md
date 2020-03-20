@@ -6,4 +6,6 @@ url(q to quit):https://arxiv.org/abs/1506.01497
 url(q to quit):https://arxiv.org/pdf/1506.01497
 
 url(q to quit):https://arxiv.org/pdf/1506.01497.pdf
+
+url(q to quit):1506.01497
 都行
